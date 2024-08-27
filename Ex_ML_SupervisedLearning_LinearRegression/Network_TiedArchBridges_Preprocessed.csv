@@ -1,0 +1,65 @@
+﻿Name;Year;Country;Function;Material Arch;Material Deck;Coordinates N / S;Coordinates E / W;Span [m];Rise of Arch [m];Rise-Span Ratio;Width Tie Backs [m];Horizontal Arch Inclination;Arch Bracing
+Agoishi Bridge;1985;Japan;Road Bridge;Steel;Steel-Concrete Composite;"34Â° 13' 11.52"" N";"135Â° 8' 44.43"" E";163.4;26;6.284615385;10.25;Yes;Cross Girder
+Akio Bridge;1968;Japan;Road Bridge;Steel;Steel-Concrete Composite;"34Â° 26' 23.04"" N";"132Â° 29' 0.59"" E";110;17;6.470588235;6;Yes;Cross Girder
+Amelia Earhart Bridge;2012;USA;Road Bridge;Steel;Steel-Concrete Composite;"39Â°33'34.0""N";"95Â°06'48.4""W";160.6;26.5;6.060377358;23.8;No;Diamond Truss
+Ã…snes Bridge;2011;Norway;Road Bridge;Steel;Steel-Concrete Composite;"64Â°18'34.7""N";"11Â°13'06.3""E";111;18;6.166666667;9;No;K-Truss
+Bent Bridge 1;2011;USA;Pedestrian Bridge;Steel;Reinforced Concrete;"37Â°19'33.7""N";"121Â°51'38.9""W";82.3;6.7;12.28358209;4.2;Yes;Diamond Truss
+Bent Bridge 2;2011;USA;Pedestrian Bridge;Steel;Reinforced Concrete;"37Â°19'33.7""N";"121Â°51'38.9""W";82.3;6.7;12.28358209;4.2;Yes;Diamond Truss
+Blennerhassett Island Bridge ;2008;USA;Road Bridge;Steel;Steel-Concrete Composite;"39Â° 16' 29.00"" N";"81Â° 38' 49.00"" W";267.8;53.3;5.024390244;32.6;No;Diamond Truss
+BogenbrÃ¼cke Salzbergen;2015;Germany;Road Bridge;Steel;Steel-Concrete Composite;"52Â°19'13.7""N";"7Â°21'15.5""E";56;12.85;4.357976654;15.86;No;None
+Bolstadstraumen bru;1963;Norway;Road Bridge;Steel;Prestressed Concrete;"60Â° 39' 19.97"" N";"5Â° 48' 6.72"" E";83;15;5.533333333;8.2;No;K-Truss
+Brandangersundet Bridge;2010;Norway;Road Bridge;Steel;Prestressed Concrete;"60Â° 53' 53.00"" N";"5Â° 1' 33.00"" E";220;33;6.666666667;7.2;No;Zigzag Truss
+Brodno Vranie Bridge;2019;Slovakia;Pedestrian Bridge;Steel;Reinforced Concrete;"49Â°15'30.3""N";"18Â°44'59.8""E";75;7.5;10;3.3;No;Diamond Truss
+Bugrinsky Bridge ;2014;Russia;Road Bridge;Steel;Steel;"54Â° 58' 29.65"" N";"82Â° 57' 44.32"" E";380;72.7;5.22696011;36.9;Yes;Diamond Truss
+Cernavoda Bridge ;2001;Romania;Road Bridge;Steel;Steel-Concrete Composite;"44Â° 20' 17.51"" N";"28Â° 1' 43.15"" E";172.5;28;6.160714286;26.2;No;Cross Girder
+Domen River Bridge;2006;Japan;Road Bridge;Steel;Steel;"33Â°03'03.5""N";"130Â°25'51.1""E";200.5;31;6.467741935;13.5;No;Cross Girder
+Drivabrua;2016;Norway;Road Bridge;Steel;Steel-Concrete Composite;"62Â°40'24.7""N";"8Â°33'21.9""E";111;17;6.529411765;15;No;K-Truss
+Dziwna Most ;2003;Poland;Road Bridge;Steel;Steel-Concrete Composite;"53Â° 50' 46.81"" N";"14Â° 37' 19.27"" E";180;25;7.2;16;Yes;Cross Girder
+EisenbahnÃ¼berfÃ¼hrung FlorabrÃ¼cke ;2010;Germany;Railway Bridge;Steel;Steel;"52Â° 17' 43.23"" N";"11Â° 22' 48.31"" E";132.6;19.85;6.680100756;8.4;Yes;Cross Girder
+Forrabura;2017;Norway;Road Bridge;Steel;Steel-Concrete Composite;"63Â°27'41.5""N";"11Â°11'03.3""E";75;13;5.769230769;10;No;K-Truss
+Haccourt Bridge ;1985;Belgium;Road Bridge;Steel;Steel;"50Â° 44' 7.55"" N";"5Â° 40' 36.99"" E";139.5;23.25;6;20.9;No;None
+HÃ¥kkadalen Bridge;1963;Norway;Road Bridge;Steel;Reinforced Concrete;"64Â°01'07.1""N";"11Â°30'16.9""E";80;12;6.666666667;7;No;Diamond Truss
+HavelkanalbrÃ¼cke Brieselang 1;2011;Germany;Road Bridge;Steel;Steel-Concrete Composite;"52Â° 35' 7.00"" N";"12Â° 58' 20.00"" E";106;18.8;5.638297872;19.85;No;None
+Heisei Memorial Bridge;1989;Japan;Road Bridge;Steel;Steel-Concrete Composite;"35Â° 6' 0.15"" N";"137Â° 10' 39.32"" E";158;26;6.076923077;21.7;Yes;Cross Girder
+Hermalle Bridge ;1985;Belgium;Road Bridge;Steel;Steel-Concrete Composite;"50Â° 42' 53.80"" N";"5Â° 40' 18.20"" E";138.1;24.04;5.744592346;13.6;Yes;None
+Kledering Classification Yard Railroad Overfly Bridge 1;2013;Austria;Railway Bridge;Steel;Steel-Concrete Composite;"48Â° 8' 22.28"" N";"16Â° 26' 6.76"" E";112.5;19;5.921052632;14.2;Yes;Cross Girder
+Kledering Classification Yard Railroad Overfly Bridge 2;2013;Austria;Railway Bridge;Steel;Steel-Concrete Composite;"48Â° 8' 22.28"" N";"16Â° 26' 6.76"" E";88.5;15;5.9;14.2;Yes;Cross Girder
+Lake Barkley Bridge;2018;USA;Road Bridge;Steel;Steel-Concrete Composite;"36Â°48'02.0""N";"87Â°58'42.4""W";167.6;32.4;5.172839506;28.7;Yes;Cross Girder
+Lake Champlain Bridge ;2011;USA;Road Bridge;Steel;Steel-Concrete Composite;"44Â° 1' 58.18"" N";"73Â° 25' 23.68"" W";123;24.7;4.979757085;12.3;Yes;Diamond Truss
+Milsaucy Bridge ;1990;Belgium;Road Bridge;Steel;Steel-Concrete Composite;"50Â° 39' 59.00"" N";"5Â° 38' 24.00"" E";144.6;24;6.025;19;No;Cross Girder
+Most MS-15 Olsztyn 1;2019;Poland;Road Bridge;Steel;Steel-Concrete Composite;"53Â°49'13.5""N";"20Â°28'38.3""E";120;21;5.714285714;13.4;No;K-Truss
+Most MS-15 Olsztyn 2;2019;Poland;Road Bridge;Steel;Steel-Concrete Composite;"53Â°49'13.5""N";"20Â°28'38.3""E";120;21;5.714285714;13.4;No;K-Truss
+Nakanosetoo Bridge;1998;Japan;Road Bridge;Steel;Steel-Concrete Composite;"34Â°11'33.8""N";"132Â°51'16.5""E";192.8;30;6.426666667;8;Yes;Cross Girder
+Nervion Bridge;2012;Spain;Railway Bridge;Reinforced Concrete;Reinforced Concrete;"43Â°14'39.1""N";"2Â°53'20.4""W";79.85;12.71;6.28245476;12.5;Yes;Cross Girder
+N-II Footbridge ;2007;Spain;Pedestrian Bridge;Steel;Reinforced Concrete;"40Â° 26' 59.10"" N";"3Â° 36' 20.72"" W";80;11.5;6.956521739;8.5;Yes;K-Truss
+Okamura Bridge;1995;Japan;Road Bridge;Steel;Steel-Concrete Composite;"34Â°11'33.9""N";"132Â°51'38.1""E";183;28;6.535714286;8;Yes;Cross Girder
+Palma del RÃ­o Bridge ;2008;Spain;Road Bridge;Steel;Steel-Concrete Composite;"37Â° 43' 18.80"" N";"5Â° 17' 12.61"" W";130;25;5.2;20.4;Yes;K-Truss
+Rayer Bazar Bridge;2015;Bangladesh;Road Bridge;Reinforced Concrete;Prestressed Concrete;"23Â° 44' 59.45"" N";"90Â° 21' 19.23"" E";40;6.8;5.882352941;7.5;No;Diamond Truss
+RegenbrÃ¼cke Stefling;2015;Germany;Road Bridge;Reinforced Concrete;Reinforced Concrete;"49Â°12'49.7""N";"12Â°11'48.5""E";54.8;9;6.088888889;9.85;No;None
+RÃ­o Deba Bridge ;2007;Spain;Road Bridge;Steel;Steel-Concrete Composite;"43Â° 17' 29.11"" N";"2Â° 21' 41.39"" W ";110;20;5.5;18.6;Yes;None
+River Irwell Crossing ;2017;Great Britain;Railway Bridge;Steel;Steel-Concrete Composite;"53Â° 28' 41.78"" N";"2Â° 15' 34.02"" W";89;13.57;6.558585114;15.4;Yes;K-Truss
+Roudne Bridge;2019;Czech Republic;Road Bridge;Steel;Reinforced Concrete;"48Â°56'04.2""N";"14Â°29'22.9""E";35;6.53;5.359877489;8.65;No;Cross Girder
+SaalebrÃ¼cke der Ortsumgehung Bernburg;2014;Germany;Road Bridge;Steel;Steel-Concrete Composite;"51Â° 48' 21.93"" N";"11Â° 46' 55.81"" E ";101;15.5;6.516129032;16.35;No;Diamond Truss
+Shinhamaderao Bridge;1991;Japan;Road Bridge;Steel;Steel;"34Â° 32' 59.64"" N";"135Â° 26' 29.52"" E";254;36;7.055555556;25.5;Yes;Cross Girder
+StadtbahnbrÃ¼cke;2020;Germany;Railway Bridge;Steel;Reinforced Concrete;"48Â°42'19.3""N";"9Â°10'12.5""E";80;8.5;9.411764706;8.5;No;None
+Toyokoro Ohashi Bridge;1983;Japan;Road Bridge;Steel;Steel-Concrete Composite;"42Â°48'42.2""N";"143Â°30'23.8""E";140;22.5;6.222222222;11;Yes;Cross Girder
+Trinec-Baliny Road Bridge 1;2009;Czech Republic;Road Bridge;Steel;Reinforced Concrete;"49Â° 42' 19.29"" N";"18Â° 38' 17.39"" E";73.5;12.25;6;18.5;No;None
+Trinec-Baliny Road Bridge 2;2009;Czech Republic;Road Bridge;Steel;Reinforced Concrete;"49Â° 42' 19.29"" N";"18Â° 38' 17.39"" E";73.5;12.25;6;9.65;No;None
+TrÃ³ja Bridge ;2014;Czech Republic;Railway Bridge;Steel;Prestressed Concrete;"50Â° 6' 44.29"" N";"14Â° 26' 10.08"" E ";200.4;20;10.02;10;Yes;None
+ÃœberfÃ¼hrungsbauwerk WD-10 MiÅ„sk-Mazowiecki;2011;Poland;Road Bridge;Steel;Reinforced Concrete;"52Â°12'20.1""N";"21Â°40'32.4""E";65;10.8;6.018518519;8.94;No;K-Truss
+ÃœberfÃ¼hrungsbauwerk WD-137 TarnÃ³w - RzeszÃ³w 1;2012;Poland;Road Bridge;Steel;Reinforced Concrete;"50Â°06'30.5""N";"21Â°39'54.1""E";72;13.85;5.198555957;8.62;No;K-Truss
+ÃœberfÃ¼hrungsbauwerk WD-137 TarnÃ³w - RzeszÃ³w 2;2012;Poland;Road Bridge;Steel;Reinforced Concrete;"50Â°06'30.4""N";"21Â°39'54.6""E";72;13.85;5.198555957;9.62;No;K-Truss
+ÃœberfÃ¼hrungsbauwerk WD-431 Rawicz (Pyrzowice â€“ Piekary) 1;2011;Poland;Road Bridge;Steel;Reinforced Concrete;"50Â°28'17.2""N";"19Â°03'12.8""E";62;9.3;6.666666667;8.94;No;Diamond Truss
+ÃœberfÃ¼hrungsbauwerk WD-431 Rawicz (Pyrzowice â€“ Piekary) 2;2011;Poland;Road Bridge;Steel;Reinforced Concrete;"50Â°28'17.2""N";"19Â°03'12.8""E";62;9.3;6.666666667;8.94;No;Diamond Truss
+ÃœberfÃ¼hrungsbauwerk WD-57 Rawicz;2012;Poland;Road Bridge;Steel;Steel-Concrete Composite;"51Â°36'23.1""N";"16Â°48'22.7""E";75;12.89;5.818463926;14.2;No;K-Truss
+Utsumio Bridge 1;1989;Japan;Road Bridge;Steel;Steel-Concrete Composite;"34Â°22'23.3""N";"133Â°19'12.5""E";185;28;6.607142857;12.5;Yes;Cross Girder
+W 7th Street Bridge 1;2013;USA;Road Bridge;Prestressed Concrete;Prestressed Concrete;"32Â°45'03.6""N";"97Â°20'51.5""W";49.8;7.2;6.916666667;20.7;No;None
+W 7th Street Bridge 2;2013;USA;Road Bridge;Prestressed Concrete;Prestressed Concrete;"32Â°45'03.6""N";"97Â°20'49.6""W";49.8;7.2;6.916666667;20.7;No;None
+W 7th Street Bridge 3;2013;USA;Road Bridge;Prestressed Concrete;Prestressed Concrete;"32Â°45'03.6""N";"97Â°20'47.7""W";49.8;7.2;6.916666667;20.7;No;None
+W 7th Street Bridge 4;2013;USA;Road Bridge;Prestressed Concrete;Prestressed Concrete;"32Â°45'03.6""N";"97Â°20'45.8""W";49.8;7.2;6.916666667;20.7;No;None
+W 7th Street Bridge 5;2013;USA;Road Bridge;Prestressed Concrete;Prestressed Concrete;"32Â°45'03.6""N";"97Â°20'43.8""W";49.8;7.2;6.916666667;20.7;No;None
+W 7th Street Bridge 6;2013;USA;Road Bridge;Prestressed Concrete;Prestressed Concrete;"32Â°45'03.6""N";"97Â°20'41.9""W";49.8;7.2;6.916666667;20.7;No;None
+Waikato River Bridge;2010;New Zealand;Road Bridge;Steel;Steel-Concrete Composite;"38Â°38'01.0""S";"176Â°05'51.7""E";100.3;20;5.015;12.75;No;K-Truss
+Wellsburg;2020;USA;Road Bridge;Steel;Steel-Concrete Composite;"40Â°15'17.8""N";"80Â°38'11.2""W";253;39.5;6.405063291;20.7;Yes;Diamond Truss
+Å½eÅ¾elj Bridge 1;2018;Serbia;Railway Bridge;Steel;Steel-Concrete Composite;"45Â° 15' 42.60"" N";"19Â° 51' 37.77"" E ";219;42;5.214285714;32;Yes;Cross Girder
+Å½eÅ¾elj Bridge 2;2018;Serbia;Railway Bridge;Steel;Steel-Concrete Composite;"45Â° 15' 42.60"" N";"19Â° 51' 37.77"" E ";177;34;5.205882353;32;Yes;Cross Girder
