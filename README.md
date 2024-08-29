@@ -20,3 +20,6 @@ Through these exercises, participants will learn how to:
 Each notebook is independent and focuses on a specific topic or technique. We hope this series will provide helpful in building a solid foundation for understanding and leveraging AI in AEC applications.
 
 
+## Getting started
+
+
