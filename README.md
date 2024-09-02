@@ -1,7 +1,7 @@
 
 # AI in AEC Summer School - ETH Zurich
 
-Welcome to the repository for the [Design++](https://designplusplus.ethz.ch) [Summer School AI in AEC 2024](https://designplusplus.ethz.ch/education/summer-school.html) at ETH Zurich! This repository contains a series of Jupyter Notebooks designed to provide hands-on exercises and examples in applying Artificial Intelligence and Machine Learning techniques within the AEC industry. 
+Welcome to the repository for the [Design++](https://designplusplus.ethz.ch) [Summer School: AI in AEC 2024](https://designplusplus.ethz.ch/education/summer-school.html) at ETH Zurich! This repository contains a series of Jupyter Notebooks designed to provide hands-on exercises and examples in applying Artificial Intelligence and Machine Learning techniques within the AEC industry. 
 
 ## Contents
 
