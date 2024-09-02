@@ -1,7 +1,8 @@
 
 # AI in AEC Summer School - ETH Zurich
+Tutorial for [Design++](https://designplusplus.ethz.ch) [Summer School AI in AEC 2024](https://designplusplus.ethz.ch/education/summer-school.html)
 
-Welcome to the repository for the AI in AEC (Architecture, Engineering, and Construction) Summer School at ETH Zurich! This repository contains a series of Jupyter Notebooks designed to provide hands-on exercises and examples in applying Artificial Intelligence and Machine Learning techniques within the AEC industry. 
+Welcome to the repository for the [Design++](https://designplusplus.ethz.ch) [Summer School AI in AEC 2024](https://designplusplus.ethz.ch/education/summer-school.html) at ETH Zurich! This repository contains a series of Jupyter Notebooks designed to provide hands-on exercises and examples in applying Artificial Intelligence and Machine Learning techniques within the AEC industry. 
 
 ## Contents
 
@@ -35,7 +36,8 @@ To get the most out of these exercises, we recommend downloading the notebooks i
 These notebooks can also serve as a foundation for your mini-projects. You can use the code snippets provided in these notebooks as a starting point and adapt them to address the specific challenges you are tackling in your projects with your team.
 
 
-## Resources
+## References
+Authors of the notebooks: Sophia Kuhn (sophia.kuhn@ibk.baug.ethz.ch) and Andreas Müller (mueller@ibk.baug.ethz.ch).
 
 Many of the notebooks are based on the course "Scientific Machine and Deep Learning for Design and Construction in Civil Engineering", at ETH Zurich by Prof. Michael Kraus (2021-2023).
 
