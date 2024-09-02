@@ -35,3 +35,8 @@ To get the most out of these exercises, we recommend downloading the notebooks i
 These notebooks can also serve as a foundation for your mini-projects. You can use the code snippets provided in these notebooks as a starting point and adapt them to address the specific challenges you are tackling in your projects with your team.
 
 
+## Resources
+
+Many of the notebooks are based on the course "Scientific Machine and Deep Learning for Design and Construction in Civil Engineering", at ETH Zurich by Prof. Michael Kraus (2021-2023).
+
+
